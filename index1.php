@@ -22,7 +22,4 @@ $m = $dizi[0];
 $mm = $dizi[2];
 $mmm= $dizi[4]; 
 
-
-echo $m;
-
 ?>
