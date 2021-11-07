@@ -23,5 +23,3 @@ $mm = $dizi[2];
 $mmm= $dizi[4]; 
 echo $m
 ?>
-<html>
- hadise   </html>
